@@ -1,3 +1,10 @@
+script {
+    color: gray;
+    font-size: large;
+    font-weight:bolder;
+  }
+
+
 p {
     color: red;
     width: 400px;
@@ -23,5 +30,6 @@ section {
     margin: 20px;
   }
 
+ 
 /** esto es un comentario
 en CSS */
