@@ -1,0 +1,27 @@
+p {
+    color: red;
+    width: 400px;
+}
+/** h1{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: gray;
+}*/
+
+section {
+    width: 400px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 20px;
+  }
+
+/** esto es un comentario
+en CSS */
